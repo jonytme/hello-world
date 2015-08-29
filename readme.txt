@@ -1,6 +1,6 @@
- O volume na unidade C ‚ disco_w10
- O N£mero de S‚rie do Volume ‚ 24A2-0DA8
-
+ O volume na unidade C â€š disco_w10
+ O NÂ£mero de Sâ€šrie do Volume â€š 24A2-0DA8
+================teste=================================
  Pasta de C:\Users\jonyt
 
 23/08/2015  11:00    <DIR>          .
@@ -28,4 +28,4 @@
 15/08/2015  10:12    <DIR>          testephp
 22/08/2015  21:52    <DIR>          Videos
                2 arquivo(s)             52 bytes
-              22 pasta(s)   50.866.024.448 bytes dispon¡veis
+              22 pasta(s)   50.866.024.448 bytes disponÂ¡veis
