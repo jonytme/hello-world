@@ -1,6 +1,6 @@
 ﻿ O volume na unidade C ‚ disco_w10
  O N£mero de S‚rie do Volume ‚ 24A2-0DA8
-================teste=inserido no clone================================
+================teste=inserido no clone===(github 1)=============================
  Pasta de C:\Users\jonyt
 
 23/08/2015  11:00    <DIR>          .
